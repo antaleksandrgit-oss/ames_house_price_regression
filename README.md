@@ -75,10 +75,10 @@ MAE дорогих домов составляет 34 077 против 10-13 т�
 Датасет загружается из OpenML, поэтому отдельный файл данных не требуется.
 
 
-Ссылки
+## Ссылки
 - [Ноутбук в Google Colab](https://colab.research.google.com/drive/1ioHrmwY13x5wAQ_HHErOFWyjqMouzhD0?usp=sharing)
 - [Мой профиль Kaggle](https://www.kaggle.com/potsml)
 
-Контакты
+## Контакты
 - Telegram: @antaleksandr
 - Email: AntAleksandrGit@gmail.com
