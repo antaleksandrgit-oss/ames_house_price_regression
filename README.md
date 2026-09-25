@@ -68,6 +68,9 @@ MAE дорогих домов составляет 34 077 против 10-13 т�
 
 - `ames_house_price_regression.ipynb` - полный процесс исследования и обучения;
 - `ames_house_price_model.joblib` - сохранённый итоговый Pipeline.
+- `app.py` - веб-интерфейс Streamlit;
+- `requirements.txt` - зависимости приложения;
+- `sample_input.csv` - пример входных данных.
 
 ## Воспроизведение
 
@@ -76,9 +79,9 @@ MAE дорогих домов составляет 34 077 против 10-13 т�
 
 
 ## Ссылки
-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ameshousepriceregression-gw3fprzepnggnqbrocqgvk.streamlit.app/)
-- [Ноутбук в Google Colab](https://colab.research.google.com/drive/1ioHrmwY13x5wAQ_HHErOFWyjqMouzhD0?usp=sharing)
-- [Мой профиль Kaggle](https://www.kaggle.com/potsml)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ioHrmwY13x5wAQ_HHErOFWyjqMouzhD0?usp=sharing)
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/potsml)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ameshousepriceregression-gw3fprzepnggnqbrocqgvk.streamlit.app/)
 
 ## Контакты
 - Telegram: @antaleksandr
