@@ -73,3 +73,12 @@ MAE дорогих домов составляет 34 077 против 10-13 т�
 
 Откройте ноутбук в Google Colab и выполните все ячейки сверху вниз.
 Датасет загружается из OpenML, поэтому отдельный файл данных не требуется.
+
+
+Ссылки
+- [Ноутбук в Google Colab](https://colab.research.google.com/drive/1ioHrmwY13x5wAQ_HHErOFWyjqMouzhD0?usp=sharing)
+- [Мой профиль Kaggle](https://www.kaggle.com/potsml)
+
+Контакты
+- Telegram: @antaleksandr
+- Email: AntAleksandrGit@gmail.com
