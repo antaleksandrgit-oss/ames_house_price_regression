@@ -76,6 +76,7 @@ MAE дорогих домов составляет 34 077 против 10-13 т�
 
 
 ## Ссылки
+- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ameshousepriceregression-gw3fprzepnggnqbrocqgvk.streamlit.app/)
 - [Ноутбук в Google Colab](https://colab.research.google.com/drive/1ioHrmwY13x5wAQ_HHErOFWyjqMouzhD0?usp=sharing)
 - [Мой профиль Kaggle](https://www.kaggle.com/potsml)
 
